@@ -145,55 +145,43 @@
 			</div>
 		</div>
 
-		<div class="row">
+		<div class="testimonial-carousel owl-carousel owl-theme">
 
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work1.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work1.jpg") }}" alt="">
 				</div>
 			</div>
 
-
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work2.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work2.jpg") }}" alt="">
 				</div>
 			</div>
 
-
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work3.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work3.jpg") }}" alt="">
 				</div>
 			</div>
 
-
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work4.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work4.jpg") }}" alt="">
 				</div>
 			</div>
 
-
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work5.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work5.jpg") }}" alt="">
 				</div>
 			</div>
 
-
-			<div class="col-lg-2 col-md-3 text-center">
-				<div class="hvr-float">
-					<div class="thum"><a href="#"><img class="border-radius-8 box-shadow" src="{{asset("assets/img/work6.jpg") }}" alt=""></a></div>
-					
+			<div class="item margin-lr-15px">
+				<div class="background-white opacity-hover-9 padding-30px">
+					<img class="border-radius-8 box-shadow" src="{{asset("assets/img/work6.jpg") }}" alt="">
 				</div>
 			</div>
-
 		</div>
 
 		<div class="text-center">

@@ -48,7 +48,7 @@
     <div class="container">
         <div class="row">
             @foreach ($finds as $find)
-            <div class="col-xl-2 col-lg-3 col-md-4 col-12 sm-mb-25px">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 sm-mb-25px">
                 <a href="http://pisanenko.hair/blog/single/{{ $find->id }}" class="d-block box-shadow background-main-color text-white hvr-float">
                     <div class="thum"><img src="{{ asset("assets/img/$find->img")}}" alt=""></div>
                     <h4 class="text-center padding-15px">{{ $find->title }}</h4>
